@@ -4,7 +4,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sakthivel+!;" />
 </h1>
 
-<h2 align="center">A passionate Web Developer</h2>
+<h3 align="center" style="text-decoration: none;">A passionate Web Developer</h3>
+
 
 <br/>
 
@@ -71,4 +72,11 @@ making India the first country to achieve interplanetary travel on its first att
 <hr/>
 
 <br/>
+
+<h2 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=900&height=80&duration=4000&lines=Thank+you+for+checking+out+my+project.+✨;+Contact+me+for+more+information+or+to+collaborate.+!;" />
+</h2>
+
+<br/>
+
 
