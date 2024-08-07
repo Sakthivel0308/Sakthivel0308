@@ -12,11 +12,11 @@
  
  🔭 I’m currently Pursuing a **Master of Computer Applications (MCA)** 
  
- at the College of Engineering, **Anna University**
+ at the College of Engineering,Guindy - **Anna University**
  
  🌱 I’m currently learning **Python, MERN Stack, React Framework**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/Sakthivel0308/Sakthivel0308/issues)**
 
 ⚡ Fun fact **India's IT industry played a key role in developing the software for the Mars Orbiter Mission (Mangalyaan), 
 making India the first country to achieve interplanetary travel on its first attempt.**
@@ -60,10 +60,10 @@ making India the first country to achieve interplanetary travel on its first att
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-Sakthivel0308.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-Sakthivel0308.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Sakthivel0308&theme=react&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_width=390&card_height=150" alt="GitHub Streak" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Sakthivel0308&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&card_height=150" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-Sakthivel0308.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakthivel0308&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
