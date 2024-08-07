@@ -40,17 +40,10 @@ making India the first country to achieve interplanetary travel on its first att
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<style>
-  .no-click {
-    pointer-events: none;
-  }
-</style>
 <div align="center">
-  <img class="no-click" src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,git" /><br>
-  <img class="no-click" src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,mysql" /><br>
+  <img style="pointer-events: none;" src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,git" /><br>
+  <img style="pointer-events: none;" src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,mysql" /><br>
 </div>
-
-
 <br/>
 <hr/>
 
